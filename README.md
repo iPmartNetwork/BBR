@@ -16,7 +16,7 @@
 ## نصب 
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/BBR/main/bbr.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/BBR/main/BBR.sh)
 ```
 
 
